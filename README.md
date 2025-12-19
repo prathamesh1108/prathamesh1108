@@ -10,9 +10,8 @@
 
 ### 💡 About Me
 
-- 🔭 Building **Amulya Artistry** – an eCommerce platform supporting Indian artisans  
-- ⚙️ Working on **Mint Studio** and **ParkingApp** (Next.js + Spring Boot + MySQL)  
-- 📹 Creator of [**GuguGaga-TV**](https://www.youtube.com/@gugugaga-tv-kids) — fun & educational content for kids  
+- 🔭 Building **Amulya Artistry** – an eCommerce platform whose goal is supporting Indian artisans  
+- ⚙️ Worked on **Mint Studio** and **ParkingApp** (Next.js + Spring Boot + MySQL)   
 - 👨‍💻 Previous experience at **Trivia Software**, **Kamal Classes**, and **TATA Strive**  
 - 🎓 B.E. in Computer Engineering from Mumbai University  
 
@@ -57,7 +56,6 @@ Whether it's mastering system design or crafting animated kids’ content, I kee
 | **Amulya Artistry** | Next.js, Tailwind, Node.js, Stripe       | Handmade candles, artifacts & art from Indian creators        |
 | **ParkingApp**      | Next.js, Spring Boot, MySQL              | Book parking slots, track vehicles — full-stack parking system|
 | **Mint Studio**     | React, Firebase, Node.js                | Minimalist landing page + portfolio builder                   |
-| **YouTube - GuguGaga-TV** | Adobe Animate, AI Tools           | Animation + Stories + Rhymes for kids                         |
 
 ---
 
@@ -66,7 +64,6 @@ Whether it's mastering system design or crafting animated kids’ content, I kee
 - 📧 pratham46vishwa@gmail.com  
 - 📱 +91 8369968096  
 - 💼 [LinkedIn](https://www.linkedin.com/in/prathamesh-vishwakarma-4a406a1a7/)  
-- 🎥 [YouTube Channel – GuguGaga-TV](https://www.youtube.com/@gugugaga-tv-kids)
 
 ---
 
